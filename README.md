@@ -1,4 +1,5 @@
 # 休息提醒工具 V1.19 使用说明
+![image](https://github.com/ArthurGXH/screen-lock-for-eye-protection/blob/main/img/%E7%A8%8B%E5%BA%8F%E7%95%8C%E9%9D%A2.png)
 
 **休息提醒工具** 是一款用于防止长时间面对电脑、帮助劳逸结合的桌面应用。软件支持自定义工作与休息时长、桌面倒计时悬浮窗、锁屏休息以及延后提醒等功能。
 
